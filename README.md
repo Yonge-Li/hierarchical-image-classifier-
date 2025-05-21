@@ -1,1 +1,2 @@
-# hierarchical-image-classifier-
+# hierarchical-image-classifier-fashion project
+
